@@ -5,6 +5,10 @@
 **`Difficulty Level`**: [Research and development center 🌏 🌎 🌍](https://en.wikipedia.org/wiki/Research_and_development) that belongs to a [university](https://en.wikipedia.org/wiki/University).
 
 ***
+
+Please visit this [`link`](https://github.com/muhamed-hassan/c-plus-plus-dev-foundation/wiki/jokes-in-the-profession) for jokes 🤣
+
+***
 ***
 
 ![ISO_C++_Logo svg](https://user-images.githubusercontent.com/17825804/219590596-bddb59ef-e719-4402-ba23-d6aa0a62837b.png)
