@@ -11,7 +11,7 @@
 ***
 ***
 
-![ISO_C++_Logo svg](https://user-images.githubusercontent.com/17825804/219590596-bddb59ef-e719-4402-ba23-d6aa0a62837b.png)
+![dark_fire_by_snowden2023_dhol4nx-fullview](https://github.com/user-attachments/assets/e2cb4d69-7463-43df-bbb2-44efa1c7b9c8)
 
 ***
 
